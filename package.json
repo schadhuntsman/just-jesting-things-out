@@ -1,0 +1,23 @@
+{
+  "name": "just-jesting-things-out",
+  "version": "1.0.0",
+  "description": "making an rpg with jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schadhuntsman/just-jesting-things-out.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schadhuntsman/just-jesting-things-out/issues"
+  },
+  "homepage": "https://github.com/schadhuntsman/just-jesting-things-out#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
